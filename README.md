@@ -1,1 +1,1 @@
-# Uchechukwu-2345-Nigeria-House-Price-Prediction
+# Nigeria House Price Prediction
